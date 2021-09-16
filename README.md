@@ -1,2 +1,2 @@
 # hadar-hello-world
-my first github project, weehoo!
+my first github project, weehoo
